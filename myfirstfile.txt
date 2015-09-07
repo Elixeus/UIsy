@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 whatever
 this is gonna go wrong...
-=======
 whatever yes
->>>>>>> f0fc99608f4aa2145bd13118808f35a573156534
+Hi, this is Xia. Please merge this fork.
